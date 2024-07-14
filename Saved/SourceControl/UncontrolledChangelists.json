@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/denis/Documents/Unreal Projects/PR_84/Content/Box/Box_Brush3_StaticMesh.uasset",
+				"C:/Users/denis/Documents/Unreal Projects/PR_84/Content/Bluprint/BP_Block.uasset",
+				"C:/Users/denis/Documents/Unreal Projects/PR_84/Content/NewMap.umap",
+				"C:/Users/denis/Documents/Unreal Projects/PR_84/Content/Bluprint/BP_Pawn.uasset",
+				"C:/Users/denis/Documents/Unreal Projects/PR_84/Content/Bluprint/BP_Ball.uasset"
+			]
+		}
+	]
+}
